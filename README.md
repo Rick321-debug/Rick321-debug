@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://instagram.com/rick_ff6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick-ff6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4B0uZts0d6T3TPCla1BOAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rick ff" height="30" width="40" /></a>
-<a href="https://twitter.com/rick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rick" height="30" width="40" /></a>
+<a href="https://twitter.com/RICK40024073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rick" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
